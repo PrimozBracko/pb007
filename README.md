@@ -1,3 +1,3 @@
-# pb007
-Reveel Technologies Inc.
-# Im gona try next time :)
+# pb007 Reveel Technologies Inc.
+# 
+# Hvala za nalogo but im gona try next time :)
